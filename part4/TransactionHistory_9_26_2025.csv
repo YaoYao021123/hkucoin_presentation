@@ -1,0 +1,80 @@
+Symbol,TransactionType,CompanyName,Exchange,Quantity,FXRate,Currency,SecurityType,Price,Amount,CreateDate
+NVDA,Market - Sell,NVIDIA Corp,US,-1000,1,USD,Equities,$175.86 ,"$175,860.00 ",09/24/2025 - 12:15
+NVDA,Market - Buy,NVIDIA Corp,US,1000,1,USD,Equities,$179.70 ,"($179,700.00)",09/24/2025 - 09:31
+SOL,Market - Buy,Solana,CRYPTO,100,1,USD,Crypto,$220.80 ,"($22,080.00)",09/22/2025 - 13:27
+AAPL,Market - Sell,Apple Inc,US,-2000,1,USD,Equities,$250.10 ,"$500,200.00 ",09/22/2025 - 09:34
+SOL,Market - Buy,Solana,CRYPTO,300,1,USD,Crypto,$232.13 ,"($69,639.00)",09/21/2025 - 23:19
+SOL,Market - Buy,Solana,CRYPTO,200,1,USD,Crypto,$238.48 ,"($47,696.00)",09/20/2025 - 07:50
+SOL,Market - Sell,Solana,CRYPTO,-200,1,USD,Crypto,$251.00 ,"$50,200.00 ",09/18/2025 - 14:02
+SOL,Market - Sell,Solana,CRYPTO,-300,1,USD,Crypto,$246.58 ,"$73,974.00 ",09/18/2025 - 00:08
+NVDA,Market - Sell,NVIDIA Corp,US,-600,1,USD,Equities,$171.15 ,"$102,690.00 ",09/17/2025 - 09:36
+TSLA,Market - Sell,Tesla Inc,US,-250,1,USD,Equities,$413.90 ,"$103,475.00 ",09/17/2025 - 09:35
+UNH,Limit - Sell,Unitedhealth Group Inc,US,-800,1,USD,Equities,$339.89 ,"$271,912.00 ",09/16/2025 - 10:51
+TSLA,Market - Buy,Tesla Inc,US,250,1,USD,Equities,$408.76 ,"($102,190.00)",09/15/2025 - 15:15
+NVDA,Market - Buy,NVIDIA Corp,US,600,1,USD,Equities,$177.18 ,"($106,308.00)",09/15/2025 - 15:13
+SOL,Market - Buy,Solana,CRYPTO,100,1,USD,Crypto,$233.79 ,"($23,379.00)",09/15/2025 - 11:27
+UNH,Market - Buy,Unitedhealth Group Inc,US,800,1,USD,Equities,$348.96 ,"($279,168.00)",09/15/2025 - 11:05
+META,Market - Sell,Meta Platforms Inc - Ordinary Shares - Class A,US,-260,1,USD,Equities,$758.00 ,"$197,080.00 ",09/15/2025 - 09:57
+SOL,Market - Buy,Solana,CRYPTO,100,1,USD,Crypto,$234.98 ,"($23,498.00)",09/15/2025 - 06:28
+SOL,Market - Buy,Solana,CRYPTO,100,1,USD,Crypto,$240.90 ,"($24,090.00)",09/15/2025 - 03:07
+SOL,Market - Buy,Solana,CRYPTO,300,1,USD,Crypto,$243.54 ,"($73,062.00)",09/15/2025 - 02:01
+ONDS,Stop - Sell,Ondas Holdings Inc,US,-16000,1,USD,Equities,$6.56 ,"$104,960.00 ",09/12/2025 - 13:02
+AAPL,Market - Buy,Apple Inc,US,1000,1,USD,Equities,$233.14 ,"($233,140.00)",09/12/2025 - 13:00
+ONDS,Market - Buy,Ondas Holdings Inc,US,16000,1,USD,Equities,$6.47 ,"($103,520.00)",09/12/2025 - 11:51
+UNH,Market - Sell,Unitedhealth Group Inc,US,-250,1,USD,Equities,$357.07 ,"$89,267.50 ",09/12/2025 - 11:41
+AAPL,Limit - Buy,Apple Inc,US,1000,1,USD,Equities,$233.67 ,"($233,670.00)",09/12/2025 - 11:38
+TQQQ,Market - Sell,ProShares Trust - ProShares UltraPro QQQ 3x Shares,US,-1300,1,USD,Equities,$95.70 ,"$124,410.00 ",09/12/2025 - 09:37
+SERV,Market - Sell,Serve Robotics Inc,US,-10000,1,USD,Equities,$11.71 ,"$117,100.00 ",09/11/2025 - 11:47
+OPEN,Market - Sell,Opendoor Technologies Inc,US,-10000,1,USD,Equities,$9.66 ,"$96,600.00 ",09/11/2025 - 11:34
+OPEN,Market - Sell,Opendoor Technologies Inc,US,-10000,1,USD,Equities,$9.62 ,"$96,200.00 ",09/11/2025 - 11:30
+DOGE,Market - Sell,Dogecoin,CRYPTO,-100000,1,USD,Crypto,$0.25 ,"$24,767.00 ",09/11/2025 - 11:28
+SERV,Market - Sell,Serve Robotics Inc,US,-10000,1,USD,Equities,$11.72 ,"$117,200.00 ",09/11/2025 - 09:48
+OPEN,Limit - Sell,Opendoor Technologies Inc,US,-17000,1,USD,Equities,$8.01 ,"$136,170.00 ",09/11/2025 - 09:38
+NVDA,Market - Sell,NVIDIA Corp,US,-400,1,USD,Equities,$177.80 ,"$71,120.00 ",09/10/2025 - 11:44
+NVDA,Limit - Buy,NVIDIA Corp,US,400,1,USD,Equities,$177.99 ,"($71,196.00)",09/10/2025 - 11:41
+UNH,Market - Buy,Unitedhealth Group Inc,US,250,1,USD,Equities,$342.93 ,"($85,732.50)",09/10/2025 - 10:07
+GLD,Market - Sell,SPDR Gold Trust - SPDR Gold Shares ETF,US,-300,1,USD,Equities,$335.94 ,"$100,782.00 ",09/10/2025 - 09:39
+DOGE,Market - Buy,Dogecoin,CRYPTO,100000,1,USD,Crypto,$0.24 ,"($24,164.00)",09/09/2025 - 13:15
+OPEN,Market - Buy,Opendoor Technologies Inc,US,17000,1,USD,Equities,$6.05 ,"($102,850.00)",09/09/2025 - 10:53
+GLD,Market - Sell,SPDR Gold Trust - SPDR Gold Shares ETF,US,-300,1,USD,Equities,$334.92 ,"$100,476.00 ",09/09/2025 - 10:36
+OPEN,Limit - Buy,Opendoor Technologies Inc,US,20000,1,USD,Equities,$6.13 ,"($122,600.00)",09/09/2025 - 10:27
+TLT,Limit - Sell,BlackRock Institutional Trust Company N.A. - iShares 20+ Year Treasury Bond ETF,US,-2000,1,USD,Equities,$89.51 ,"$179,020.00 ",09/09/2025 - 10:01
+TSLA,Market - Sell,Tesla Inc,US,-300,1,USD,Equities,$350.94 ,"$105,282.00 ",09/08/2025 - 10:13
+META,Market - Buy,Meta Platforms Inc - Ordinary Shares - Class A,US,130,1,USD,Equities,$763.70 ,"($99,281.00)",09/08/2025 - 09:40
+ETH,Market - Sell,Ethereum,CRYPTO,-10,1,USD,Crypto,"$4,274.43 ","$42,744.30 ",09/05/2025 - 13:44
+BTC,Market - Sell,Bitcoin,CRYPTO,-0.7,1,USD,Crypto,"$110,241.70 ","$77,169.19 ",09/05/2025 - 13:43
+ETH,Market - Buy,Ethereum,CRYPTO,10,1,USD,Crypto,"$4,293.22 ","($42,932.20)",09/05/2025 - 11:19
+META,Limit - Buy,Meta Platforms Inc - Ordinary Shares - Class A,US,130,1,USD,Equities,$747.97 ,"($97,236.10)",09/04/2025 - 12:41
+SERV,Limit - Buy,Serve Robotics Inc,US,10000,1,USD,Equities,$9.65 ,"($96,500.00)",09/04/2025 - 12:13
+BTC,Market - Buy,Bitcoin,CRYPTO,0.2,1,USD,Crypto,"$110,080.75 ","($22,016.15)",09/04/2025 - 10:36
+GLD,Market - Sell,SPDR Gold Trust - SPDR Gold Shares ETF,US,-1000,1,USD,Equities,$325.49 ,"$325,490.00 ",09/04/2025 - 10:24
+TSLA,Limit - Buy,Tesla Inc,US,300,1,USD,Equities,$333.74 ,"($100,122.00)",09/04/2025 - 10:02
+GLD,Market - Buy,SPDR Gold Trust - SPDR Gold Shares ETF,US,1600,1,USD,Equities,$326.97 ,"($523,152.00)",09/04/2025 - 09:44
+TQQQ,Limit - Buy,ProShares Trust - ProShares UltraPro QQQ 3x Shares,US,1300,1,USD,Equities,$89.45 ,"($116,285.00)",09/04/2025 - 09:39
+SERV,Market - Buy,Serve Robotics Inc,US,7000,1,USD,Equities,$9.74 ,"($68,180.00)",09/04/2025 - 09:32
+TLT,Market - Buy,BlackRock Institutional Trust Company N.A. - iShares 20+ Year Treasury Bond ETF,US,2000,1,USD,Equities,$86.96 ,"($173,920.00)",09/04/2025 - 09:32
+BTC,Market - Buy,Bitcoin,CRYPTO,0.5,1,USD,Crypto,"$110,787.60 ","($55,393.80)",09/04/2025 - 08:53
+SERV,Limit - Buy,Serve Robotics Inc,US,1000,1,USD,Equities,$10.00 ,"($10,000.00)",09/02/2025 - 11:53
+SERV,Market - Buy,Serve Robotics Inc,US,2000,1,USD,Equities,$10.00 ,"($20,000.00)",09/02/2025 - 11:53
+SOL,Market - Sell,Solana,CRYPTO,-700,1,USD,Crypto,$205.57 ,"$143,899.04 ",09/24/2025 - 23:59
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+Asset,P/L,,,,,,,,,
+AAPL,33390,19.04%,,,,,,,,
+BTC,-240.76,-0.14%,,,,,,,,
+DOGE,603,0.34%,,,,,,,,
+ETH,-187.9,-0.11%,,,,,,,,
+GLD,3596,2.05%,,,,,,,,
+META,562.9,0.32%,,,,,,,,
+NVDA,-7534,-4.30%,,,,,,,,
+ONDS,1440,0.82%,,,,,,,,
+OPEN,103520,59.04%,,,,,,,,
+SERV,39620,22.60%,,,,,,,,
+SOL,-15370.96,-8.77%,,,,,,,,
+TLT,5100,2.91%,,,,,,,,
+TQQQ,8125,4.63%,,,,,,,,
+TSLA,6445,3.68%,,,,,,,,
+UNH,-3721,-2.12%,,,,,,,,
+×Ü¼Æ,175347.28,,,,,,,,,
